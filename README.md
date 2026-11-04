@@ -1,3 +1,5 @@
+![SalaryAxis: UK salary benchmarks built on ONS open data](docs/assets/readme-banner.png)
+
 # SalaryAxis
 
 **A professional-grade UK salary intelligence platform** — built on ONS open data,
