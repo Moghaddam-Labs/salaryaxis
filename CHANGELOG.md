@@ -10,6 +10,11 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [Unreleased]
 
+### Security
+
+- Updated requests, Flask, Flask-CORS, python-dotenv and pytest to resolve Dependabot alerts.
+  Recheck the CORS settings when the application source is restored.
+
 ### Added
 
 - GitHub Actions CI workflow (`.github/workflows/ci.yml`) on Python 3.12: installs
